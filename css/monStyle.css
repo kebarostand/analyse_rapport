@@ -1,0 +1,45 @@
+.margetop {
+    margin-top: 60px;
+}
+
+.margetop10 {
+    margin-top: 10px;
+}
+
+.editPwd-page h1,
+h2 {
+    color: #2e6da4;
+}
+
+.editPwd-page h1 {
+    font-size: 45px;
+}
+
+.editPwd-page h2 {
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.editPwd-page form {
+    width: 400px;
+    margin: auto;
+}
+
+.editPwd-page input {
+    margin-bottom: 20px;
+}
+
+.input-container {
+    position: relative;
+}
+
+.show-old-pass,
+.show-new-pass {
+    position: absolute;
+    top: 0px;
+    right: -35px;
+}
+
+.clickable {
+    cursor: pointer;
+}
